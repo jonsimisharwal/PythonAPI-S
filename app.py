@@ -11,7 +11,7 @@ import uuid
 app = FastAPI()
 
 # JWT config
-SECRET_KEY = "your-secret-key"
+SECRET_KEY = "classEwork0027"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
